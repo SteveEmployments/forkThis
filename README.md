@@ -6,7 +6,9 @@
 
 ### Description
 
-This page will prove to my descendants that I was, in fact, only half retarded
+This page will prove to my descendants that I was, in fact, only half retarded.
+
+2nd try: Add, commit, push?
 
 ## Languages used
 
