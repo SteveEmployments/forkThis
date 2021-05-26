@@ -1,21 +1,21 @@
-# Project Title
+# This Time is for Real
 
-## Forkthis Repo for Practice
+## Writing HTML for Quitters
 
-### Write your author name here. eg. By Nicole
+### By SteveEmployments
 
 ### Description
 
-Create a description and fill it in here.
+This page will prove to my descendants that I was, in fact, only half retarded
 
 ## Languages used
 
-What languages were used for this repo:
-List them
+Markdown
+HTML
 
 ### Known Bugs
 
-Are there any? If so what are they?
+NOTHING - It works perfectly!
 
 ## License
 
@@ -23,6 +23,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
+* Hat tip to anyone who's code was used (ME)
+* Inspiration from GOD
 * etc
