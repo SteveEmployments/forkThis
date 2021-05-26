@@ -12,6 +12,8 @@ This page will prove to my descendants that I was, in fact, only half retarded.
 
 3rd try: For funzies, no add. Just commit and push!
 
+4th try: Does not work! Remember all the little thangs.
+
 ## Languages used
 
 Markdown
