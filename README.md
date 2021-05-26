@@ -10,6 +10,8 @@ This page will prove to my descendants that I was, in fact, only half retarded.
 
 2nd try: Add, commit, push?
 
+3rd try: For funzies, no add. Just commit and push!
+
 ## Languages used
 
 Markdown
